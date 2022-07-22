@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
@@ -62,6 +63,10 @@ public class NewsRVAdaptor extends RecyclerView.Adapter<NewsRVAdaptor.ViewHolder
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         private TextView titleTV,subTitleTV;
+
+//        <ImageView
+//        android:id="@+id/imageView"/>
+
         private ImageView newsIV;
         public ViewHolder(@androidx.annotation.NonNull View itemView){
             super(itemView);
