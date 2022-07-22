@@ -1,7 +1,10 @@
 # Newsly Application
 <br>
-###IDE:Android Studio 
+### IDE:
+Android Studio 
 <br>
-###Language:JAVA   
+### Language:
+JAVA   
 <br>
-###Api used:newsapi.org  
+### Api used:
+newsapi.org  
